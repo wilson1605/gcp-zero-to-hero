@@ -4,12 +4,17 @@
 
 ## What You Will Learn Today
 
+- GCP Hierarchy
 - What is a GCP project and why it's needed
 - How billing accounts work in GCP
 - Setting budget alerts to avoid unexpected charges
 - Enabling APIs required for your workloads
 
 ---
+
+## GCP Hierarchy
+
+<img width="1024" height="1024" alt="GCP Resource Hierarchy Flowchart" src="https://github.com/user-attachments/assets/c1d9b947-bf12-4b30-9df6-df3491dc01a8" />
 
 ## Understanding GCP Projects
 
